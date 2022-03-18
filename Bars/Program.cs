@@ -6,7 +6,7 @@ namespace Bars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Bars!");//Welcome
         }
     }
 }
